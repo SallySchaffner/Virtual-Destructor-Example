@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Virtual Destructor Example.vcxproj" Id="a5a625b6-366c-49d1-ada1-0ad08b183b2e" />
+</Solution>
